@@ -1,0 +1,24 @@
+C:\Users\chepchip\Documents\SharpDevelop Projects\TINH TONG 2 SO - ANTT\CLIENT\bin\Debug\CLIENT.exe
+C:\Users\chepchip\Documents\SharpDevelop Projects\TINH TONG 2 SO - ANTT\CLIENT\bin\Debug\CLIENT.pdb
+C:\Users\chepchip\Documents\SharpDevelop Projects\TINH TONG 2 SO - ANTT\CLIENT\obj\Debug\CLIENT.csprojResolveAssemblyReference.cache
+C:\Users\chepchip\Documents\SharpDevelop Projects\TINH TONG 2 SO - ANTT\CLIENT\obj\Debug\CLIENT.exe
+C:\Users\chepchip\Documents\SharpDevelop Projects\TINH TONG 2 SO - ANTT\CLIENT\obj\Debug\CLIENT.pdb
+C:\Users\chepchip\Documents\SharpDevelop Projects\TINH TONG 2 SO - ANTT\CLIENT\obj\Debug\CLIENT.MainForm.resources
+C:\Users\chepchip\Documents\SharpDevelop Projects\TINH TONG 2 SO - ANTT\CLIENT\obj\Debug\CLIENT.csproj.GenerateResource.Cache
+C:\Users\TRIPM\Downloads\Compressed\TINH TONG 2 SO - ANTT\TINH TONG 2 SO - ANTT\CLIENT\bin\Debug\CLIENT.exe
+C:\Users\TRIPM\Downloads\Compressed\TINH TONG 2 SO - ANTT\TINH TONG 2 SO - ANTT\CLIENT\bin\Debug\CLIENT.pdb
+C:\Users\TRIPM\Downloads\Compressed\TINH TONG 2 SO - ANTT\TINH TONG 2 SO - ANTT\CLIENT\obj\Debug\CLIENT.csprojResolveAssemblyReference.cache
+C:\Users\TRIPM\Downloads\Compressed\TINH TONG 2 SO - ANTT\TINH TONG 2 SO - ANTT\CLIENT\obj\Debug\CLIENT.MainForm.resources
+C:\Users\TRIPM\Downloads\Compressed\TINH TONG 2 SO - ANTT\TINH TONG 2 SO - ANTT\CLIENT\obj\Debug\CLIENT.csproj.GenerateResource.cache
+C:\Users\TRIPM\Downloads\Compressed\TINH TONG 2 SO - ANTT\TINH TONG 2 SO - ANTT\CLIENT\obj\Debug\CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\TRIPM\Downloads\Compressed\TINH TONG 2 SO - ANTT\TINH TONG 2 SO - ANTT\CLIENT\obj\Debug\CLIENT.exe
+C:\Users\TRIPM\Downloads\Compressed\TINH TONG 2 SO - ANTT\TINH TONG 2 SO - ANTT\CLIENT\obj\Debug\CLIENT.pdb
+C:\Users\TRIPM\Downloads\Compressed\TINH TONG 2 SO - ANTT\Project\CLIENT\obj\Debug\CLIENT.csprojAssemblyReference.cache
+C:\Users\TRIPM\Downloads\Compressed\TINH TONG 2 SO - ANTT\Project\CLIENT\obj\Debug\CLIENT.MainForm.resources
+C:\Users\TRIPM\Downloads\Compressed\TINH TONG 2 SO - ANTT\Project\CLIENT\obj\Debug\CLIENT.Properties.Resources.resources
+C:\Users\TRIPM\Downloads\Compressed\TINH TONG 2 SO - ANTT\Project\CLIENT\obj\Debug\CLIENT.csproj.GenerateResource.cache
+C:\Users\TRIPM\Downloads\Compressed\TINH TONG 2 SO - ANTT\Project\CLIENT\obj\Debug\CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\TRIPM\Downloads\Compressed\TINH TONG 2 SO - ANTT\Project\CLIENT\obj\Debug\CLIENT.exe
+C:\Users\TRIPM\Downloads\Compressed\TINH TONG 2 SO - ANTT\Project\CLIENT\obj\Debug\CLIENT.pdb
+C:\Users\TRIPM\Downloads\Compressed\TINH TONG 2 SO - ANTT\Project\CLIENT\bin\Debug\CLIENT.exe
+C:\Users\TRIPM\Downloads\Compressed\TINH TONG 2 SO - ANTT\Project\CLIENT\bin\Debug\CLIENT.pdb

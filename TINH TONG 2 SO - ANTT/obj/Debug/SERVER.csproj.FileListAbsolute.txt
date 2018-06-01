@@ -1,0 +1,31 @@
+C:\Users\chepchip\Documents\SharpDevelop Projects\TINH TONG 2 SO - ANTT\TINH TONG 2 SO - ANTT\bin\Debug\SERVER.exe
+C:\Users\chepchip\Documents\SharpDevelop Projects\TINH TONG 2 SO - ANTT\TINH TONG 2 SO - ANTT\bin\Debug\SERVER.pdb
+C:\Users\chepchip\Documents\SharpDevelop Projects\TINH TONG 2 SO - ANTT\TINH TONG 2 SO - ANTT\obj\Debug\SERVER.csprojResolveAssemblyReference.cache
+C:\Users\chepchip\Documents\SharpDevelop Projects\TINH TONG 2 SO - ANTT\TINH TONG 2 SO - ANTT\obj\Debug\SERVER.exe
+C:\Users\chepchip\Documents\SharpDevelop Projects\TINH TONG 2 SO - ANTT\TINH TONG 2 SO - ANTT\obj\Debug\SERVER.pdb
+C:\Users\chepchip\Documents\SharpDevelop Projects\TINH TONG 2 SO - ANTT\TINH TONG 2 SO - ANTT\obj\Debug\TINH_TONG_2_SO___ANTT.MainForm.resources
+C:\Users\chepchip\Documents\SharpDevelop Projects\TINH TONG 2 SO - ANTT\TINH TONG 2 SO - ANTT\obj\Debug\SERVER.csproj.GenerateResource.Cache
+C:\Users\TRIPM\Downloads\Compressed\TINH TONG 2 SO - ANTT\TINH TONG 2 SO - ANTT\TINH TONG 2 SO - ANTT\bin\Debug\SERVER.exe
+C:\Users\TRIPM\Downloads\Compressed\TINH TONG 2 SO - ANTT\TINH TONG 2 SO - ANTT\TINH TONG 2 SO - ANTT\bin\Debug\SERVER.pdb
+C:\Users\TRIPM\Downloads\Compressed\TINH TONG 2 SO - ANTT\TINH TONG 2 SO - ANTT\TINH TONG 2 SO - ANTT\obj\Debug\SERVER.csprojResolveAssemblyReference.cache
+C:\Users\TRIPM\Downloads\Compressed\TINH TONG 2 SO - ANTT\TINH TONG 2 SO - ANTT\TINH TONG 2 SO - ANTT\obj\Debug\TINH_TONG_2_SO___ANTT.MainForm.resources
+C:\Users\TRIPM\Downloads\Compressed\TINH TONG 2 SO - ANTT\TINH TONG 2 SO - ANTT\TINH TONG 2 SO - ANTT\obj\Debug\SERVER.csproj.GenerateResource.cache
+C:\Users\TRIPM\Downloads\Compressed\TINH TONG 2 SO - ANTT\TINH TONG 2 SO - ANTT\TINH TONG 2 SO - ANTT\obj\Debug\SERVER.csproj.CoreCompileInputs.cache
+C:\Users\TRIPM\Downloads\Compressed\TINH TONG 2 SO - ANTT\TINH TONG 2 SO - ANTT\TINH TONG 2 SO - ANTT\obj\Debug\SERVER.exe
+C:\Users\TRIPM\Downloads\Compressed\TINH TONG 2 SO - ANTT\TINH TONG 2 SO - ANTT\TINH TONG 2 SO - ANTT\obj\Debug\SERVER.pdb
+C:\Users\TRIPM\Downloads\Compressed\TINH TONG 2 SO - ANTT\Project\TINH TONG 2 SO - ANTT\bin\Debug\SERVER.exe
+C:\Users\TRIPM\Downloads\Compressed\TINH TONG 2 SO - ANTT\Project\TINH TONG 2 SO - ANTT\bin\Debug\SERVER.pdb
+C:\Users\TRIPM\Downloads\Compressed\TINH TONG 2 SO - ANTT\Project\TINH TONG 2 SO - ANTT\obj\Debug\SERVER.csprojAssemblyReference.cache
+C:\Users\TRIPM\Downloads\Compressed\TINH TONG 2 SO - ANTT\Project\TINH TONG 2 SO - ANTT\obj\Debug\TINH_TONG_2_SO___ANTT.MainForm.resources
+C:\Users\TRIPM\Downloads\Compressed\TINH TONG 2 SO - ANTT\Project\TINH TONG 2 SO - ANTT\obj\Debug\SERVER.csproj.GenerateResource.cache
+C:\Users\TRIPM\Downloads\Compressed\TINH TONG 2 SO - ANTT\Project\TINH TONG 2 SO - ANTT\obj\Debug\SERVER.csproj.CoreCompileInputs.cache
+C:\Users\TRIPM\Downloads\Compressed\TINH TONG 2 SO - ANTT\Project\TINH TONG 2 SO - ANTT\obj\Debug\SERVER.exe
+C:\Users\TRIPM\Downloads\Compressed\TINH TONG 2 SO - ANTT\Project\TINH TONG 2 SO - ANTT\obj\Debug\SERVER.pdb
+C:\Users\BigDog\Desktop\Project1\Project\TINH TONG 2 SO - ANTT\bin\Debug\SERVER.exe
+C:\Users\BigDog\Desktop\Project1\Project\TINH TONG 2 SO - ANTT\bin\Debug\SERVER.pdb
+C:\Users\BigDog\Desktop\Project1\Project\TINH TONG 2 SO - ANTT\obj\Debug\SERVER.csprojAssemblyReference.cache
+C:\Users\BigDog\Desktop\Project1\Project\TINH TONG 2 SO - ANTT\obj\Debug\TINH_TONG_2_SO___ANTT.MainForm.resources
+C:\Users\BigDog\Desktop\Project1\Project\TINH TONG 2 SO - ANTT\obj\Debug\SERVER.csproj.GenerateResource.cache
+C:\Users\BigDog\Desktop\Project1\Project\TINH TONG 2 SO - ANTT\obj\Debug\SERVER.csproj.CoreCompileInputs.cache
+C:\Users\BigDog\Desktop\Project1\Project\TINH TONG 2 SO - ANTT\obj\Debug\SERVER.exe
+C:\Users\BigDog\Desktop\Project1\Project\TINH TONG 2 SO - ANTT\obj\Debug\SERVER.pdb
