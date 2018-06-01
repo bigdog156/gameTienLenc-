@@ -66,69 +66,78 @@ namespace TINH_TONG_2_SO___ANTT
 		public void PhucVuYeuCau(Object obj){
 			int index = (Int32) obj;
             //phuc vu client nhieu lan
+            int z = 0;//đếm để vào vòng lặp if else tránh gửi bộ bài thêm lần nữa
             while (true) {
                 //nhan yeu cau va cap nhat giao dien				
                 string str1 = socket[index].ReceiveData(); //Nhan yeu cau tu client (switch..)
                 textBox4.Text = str1;
-                CardSet cardSet = new CardSet(); //tao bo bai
-                Random random = new Random();
-                Boolean duplicate = false; //bien kt random trung
-                int[] arr = new int[52]; //Tao mang 52 phan tu de luu nhung so random
-                string data1 = null;
-                string data2 = null;
-                string data3 = null;
-                string data4 = null;
-                for (int i = 0; i < 52; i++)
+                if (z == 0)
                 {
-                    do
+                    CardSet cardSet = new CardSet(); //tao bo bai
+                    Random random = new Random();
+                    Boolean duplicate = false; //bien kt random trung
+                    int[] arr = new int[52]; //Tao mang 52 phan tu de luu nhung so random
+                    string data1 = null;
+                    string data2 = null;
+                    string data3 = null;
+                    string data4 = null;
+                    for (int i = 0; i < 52; i++)
                     {
-                        duplicate = false;
-                        int j = random.Next(1, 53); //random 1 so, kt so do co chua, neu co roi thi random lai
-                        if (Timx(arr, j) == false)
+                        do
                         {
-                            if (i < 13) {
-                                data1 += cardSet.output(cardSet.GetCard(j-1));
-                            } else
-                            if (i < 26)
+                            duplicate = false;
+                            int j = random.Next(1, 53); //random 1 so, kt so do co chua, neu co roi thi random lai
+                            if (Timx(arr, j) == false)
                             {
-                                data2 += cardSet.output(cardSet.GetCard(j-1));
-                            } else
-                            if (i < 39)
-                            {
-                                data3 += cardSet.output(cardSet.GetCard(j - 1));
-                            } else
-                            {
-                                data4 += cardSet.output(cardSet.GetCard(j - 1));
+                                if (i < 13)
+                                {
+                                    data1 += cardSet.output(cardSet.GetCard(j - 1));
+                                }
+                                else
+                                if (i < 26)
+                                {
+                                    data2 += cardSet.output(cardSet.GetCard(j - 1));
+                                }
+                                else
+                                if (i < 39)
+                                {
+                                    data3 += cardSet.output(cardSet.GetCard(j - 1));
+                                }
+                                else
+                                {
+                                    data4 += cardSet.output(cardSet.GetCard(j - 1));
+                                }
+                                arr[i] = j;
+                                duplicate = true;
                             }
-                            arr[i] = j;
-                            duplicate = true;
                         }
+                        while (duplicate == false);
                     }
-                    while (duplicate == false);
-                }
-                
-                if (soClientHienTai == 4)
-                {
-                    socket[0].SendData(data1);
-                    socket[1].SendData(data2);
-                    socket[2].SendData(data3);
-                    socket[3].SendData(data4);
 
-                }
-                else if (soClientHienTai == 3)
-                {
-                    socket[0].SendData(data1);
-                    socket[1].SendData(data2);
-                    socket[2].SendData(data3);
-                }
-                else if (soClientHienTai == 2)
-                {
-                    socket[0].SendData(data1);
-                    socket[1].SendData(data2);
-                }
-                else //th nay khong cho phep..de test thoi
-                {
-                    socket[0].SendData(data1);
+                    if (soClientHienTai == 4)
+                    {
+                        socket[0].SendData(data1);
+                        socket[1].SendData(data2);
+                        socket[2].SendData(data3);
+                        socket[3].SendData(data4);
+
+                    }
+                    else if (soClientHienTai == 3)
+                    {
+                        socket[0].SendData(data1);
+                        socket[1].SendData(data2);
+                        socket[2].SendData(data3);
+                    }
+                    else if (soClientHienTai == 2)
+                    {
+                        socket[0].SendData(data1);
+                        socket[1].SendData(data2);
+                    }
+                    else //th nay khong cho phep..de test thoi
+                    {
+                        socket[0].SendData(data1);
+                    }
+                    z++;
                 }
 
             }
