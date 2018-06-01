@@ -70,7 +70,7 @@ namespace TINH_TONG_2_SO___ANTT
             while (true) {
                 //nhan yeu cau va cap nhat giao dien				
                 string str1 = socket[index].ReceiveData(); //Nhan yeu cau tu client (switch..)
-                textBox4.Text = str1;
+                textBox4.Text ="socket "+index.ToString()+"  "+ str1;
                 if (z == 0)
                 {
                     CardSet cardSet = new CardSet(); //tao bo bai
